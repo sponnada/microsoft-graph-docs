@@ -1640,3 +1640,11 @@ Possible values for user account types (group membership), per Windows definitio
 |high|
 |critical|
 |unknownFutureValue|
+
+### dataBoundary values 
+
+|Member|
+|:---|
+|none|
+|eu|
+|unknownFutureValue|

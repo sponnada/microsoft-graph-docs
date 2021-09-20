@@ -2487,3 +2487,11 @@ Possible values for user account types (group membership), per Windows definitio
 |meeting|
 |screenShare|
 |unknownFutureValue|
+
+### dataBoundary values 
+
+|Member|
+|:---|
+|none|
+|eu|
+|unknownFutureValue|
