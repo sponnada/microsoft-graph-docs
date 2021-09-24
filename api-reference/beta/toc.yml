@@ -11394,14 +11394,14 @@ items:
         - name: Organizational branding
           href: resources/organizationalbranding.md
           items:
-          - name: Get
-            href: api/organizationalbranding-get.md
-          - name: Update
-            href: api/organizationalbranding-update.md
-          - name: Delete
-            href: api/organizationalbranding-delete.md
-          - name: Branding localization
-            href: resources/organizationalbrandinglocalization.md
+          - name: Branding
+            href: resources/organizationalbranding.md
+            items:
+            - name: Get
+              href: api/organizationalbranding-get.md
+            - name: Update
+              href: api/organizationalbranding-update.md
+          - name: Localization
             items:
             - name: List
               href: api/organizationalbranding-list-localizations.md
