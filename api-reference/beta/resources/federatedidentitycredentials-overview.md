@@ -2,7 +2,7 @@
 title: "Federated identity credentials in Azure Active Directory (Azure AD)"
 description: "Represents a federated identity credential on an application."
 author: "kjyam98"
-localization_priority: Normal
+s.localizationpriority: medium
 ms.prod: "applications"
 doc_type: conceptualPageType
 ---
